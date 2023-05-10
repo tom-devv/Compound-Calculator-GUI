@@ -1,0 +1,30 @@
+[
+  {
+    "placeholder": "Maximum Power (e.g 1500)",
+    "name": "maxPower"
+  },
+  {
+    "placeholder": "Desired Decimal X [e.g 00000000000000]",
+    "name": "x"
+  },
+  {
+    "placeholder": "Desired Decimal Y",
+    "name": "y"
+  },
+  {
+    "placeholder": "Desired Decimal Z",
+    "name": "z"
+  },
+  {
+    "placeholder": "Desired Velocity X",
+    "name": "vx"
+  },
+  {
+    "placeholder": "Desired Velocity Y",
+    "name": "vy"
+  },
+  {
+    "placeholder": "Desired Velocity Z",
+    "name": "vz"
+  }
+]

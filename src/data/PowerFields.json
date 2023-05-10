@@ -1,0 +1,26 @@
+[
+  {
+    "placeholder": "Power X",
+    "name": "x"
+  },
+  {
+    "placeholder": "Power Y",
+    "name": "y"
+  },
+  {
+    "placeholder": "Power Z",
+    "name": "z"
+  },
+  {
+    "placeholder": "Power Velocity X",
+    "name": "vx"
+  },
+  {
+    "placeholder": "Power Velocity Y",
+    "name": "vy"
+  },
+  {
+    "placeholder": "Power Velocity Z",
+    "name": "vz"
+  }
+]

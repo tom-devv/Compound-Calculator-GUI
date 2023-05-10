@@ -1,0 +1,30 @@
+[
+  {
+    "placeholder": "Projectile X",
+    "name": "x"
+  },
+  {
+    "placeholder": "Projectile Y",
+    "name": "y"
+  },
+  {
+    "placeholder": "Projectile Z",
+    "name": "z"
+  },
+  {
+    "placeholder": "Projectile Velocity X",
+    "name": "vx"
+  },
+  {
+    "placeholder": "Projectile Velocity Y",
+    "name": "vy"
+  },
+  {
+    "placeholder": "Projectile Velocity Z",
+    "name": "vz"
+  },
+  {
+    "placeholder": "Projectile Fuse (0-80)",
+    "name": "fuse"
+  }
+]
